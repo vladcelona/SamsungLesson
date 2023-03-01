@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="input_url_text">Input image URL below</string>
+    <string name="show_image">Show image</string>
 </resources>
