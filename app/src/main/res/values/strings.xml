@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamsungLesson</string>
+    <string name="input_url_text">Input image URL below</string>
+</resources>
